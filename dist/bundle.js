@@ -36,7 +36,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _components_heading_heading__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./components/heading/heading */ \"./src/components/heading/heading.js\");\n\n\nconst heading = new _components_heading_heading__WEBPACK_IMPORTED_MODULE_0__.default ();\n\nheading.create(\"Página principal\")\n\nconsole.log(\"1.0.2\")\nconsole.log(\"8080\")\n\n//# sourceURL=webpack://plugins/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _components_heading_heading__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./components/heading/heading */ \"./src/components/heading/heading.js\");\n\n\nconst heading = new _components_heading_heading__WEBPACK_IMPORTED_MODULE_0__.default ();\n\nheading.create(\"Página principal\")\n\nconsole.log(\"1.0.2\")\nconsole.log(\"8080\")\nconsole.log(\"32984092IKLMDS\")\n\n//# sourceURL=webpack://plugins/./src/index.js?");
 
 /***/ })
 
